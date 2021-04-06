@@ -1,0 +1,16 @@
+{
+  "name": "snipcord",
+  "version": "0.0.1",
+  "description": "shows music from Snip as a discord status",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Bunnygamers",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security"
+  }
+}
